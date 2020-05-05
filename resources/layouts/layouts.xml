@@ -1,0 +1,15 @@
+<layouts>
+    <!-- Layout optimized for "4 Fields B" bottom data field -->
+    <layout id="DefaultLayout">
+        <drawable class="Background" />
+        <label id="label" x="center" y="-2"
+            color="Graphics.COLOR_BLACK" justification="Graphics.TEXT_JUSTIFY_CENTER"
+            font="Graphics.FONT_XTINY" />
+        <label id="valueN" x="center" y="11"
+            color="Graphics.COLOR_BLACK" justification="Graphics.TEXT_JUSTIFY_CENTER"
+            font="Graphics.FONT_LARGE" />
+        <label id="valueE" x="center" y="41"
+            color="Graphics.COLOR_BLACK" justification="Graphics.TEXT_JUSTIFY_CENTER"
+            font="Graphics.FONT_LARGE" />
+     </layout>
+</layouts>
